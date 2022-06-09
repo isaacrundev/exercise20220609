@@ -11,7 +11,7 @@ public class ex4 {
             int num = sc.nextInt();
             sum += num;
         }
-        System.out.println(sum); 
+        System.out.printf("The sum is %d%n", sum); 
         sc.close();
     }
 }
